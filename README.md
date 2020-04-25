@@ -1,4 +1,4 @@
-# Comics publisher
+# VK Analytics
 
 This script get all mentions by keyword in [vk](https://vk.com/) count its and visualize with [plotly](https://chart-studio.plotly.com/) [bar chart](https://plotly.com/python/bar-charts/#basic-bar-chart-with-plotlygraphobjects). Just give positional argument "keyword" and optional argument "--days_period" in your command line.
 
